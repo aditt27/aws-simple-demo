@@ -22,7 +22,7 @@ spec:
         app: app-demo-adit
     spec:
       containers:
-        - name: container-hello-be
+        - name: container-demo-adit
           image: 872583825157.dkr.ecr.ap-southeast-1.amazonaws.com/demo-adit
           imagePullPolicy: Always
           ports:
